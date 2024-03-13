@@ -1,5 +1,5 @@
 PKG_NAME := oxygen-sounds
-URL = https://download.kde.org/stable/plasma/6.0.0/oxygen-sounds-6.0.0.tar.xz
+URL = https://download.kde.org/stable/plasma/6.0.2/oxygen-sounds-6.0.2.tar.xz
 ARCHIVES = 
 
 include ../common/Makefile.common
