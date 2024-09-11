@@ -9,7 +9,7 @@
 #
 Name     : oxygen-sounds
 Version  : 6.1.5
-Release  : 20
+Release  : 21
 URL      : https://download.kde.org/stable/plasma/6.1.5/oxygen-sounds-6.1.5.tar.xz
 Source0  : https://download.kde.org/stable/plasma/6.1.5/oxygen-sounds-6.1.5.tar.xz
 Source1  : https://download.kde.org/stable/plasma/6.1.5/oxygen-sounds-6.1.5.tar.xz.sig
